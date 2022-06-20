@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="baza-weather-app@localhost" uuid="56859442-54f0-4e8a-ac94-2312f49c730d">
+    <data-source source="LOCAL" name="e-shop@localhost" uuid="a168e14b-abf7-4a90-8ef1-078d242c8ddb">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/baza-weather-app</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
+      <jdbc-url>jdbc:postgresql://localhost:5432/e-shop</jdbc-url>
     </data-source>
   </component>
 </project>
