@@ -1,6 +1,6 @@
 package com.example.weatherapplication.service.impl;
 
-import com.example.weatherapplication.model.User;
+/*import com.example.weatherapplication.model.User;
 import com.example.weatherapplication.model.exceptions.InvalidArgumentException;
 import com.example.weatherapplication.model.exceptions.InvalidUserCredentialException;
 import com.example.weatherapplication.model.exceptions.PasswordDoNotMatchException;
@@ -26,4 +26,4 @@ public class AuthServiceImpl implements AuthService {
                 .orElseThrow(InvalidUserCredentialException::new);
     }
 
-}
+}*/

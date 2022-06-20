@@ -1,7 +1,7 @@
 package com.example.weatherapplication.model;
 
 import lombok.Data;
-import lombok.Generated;
+/*import lombok.Generated;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -73,4 +73,4 @@ public class User implements UserDetails {
     public boolean isEnabled() {
         return isEnabled;
     }
-}
+}*/

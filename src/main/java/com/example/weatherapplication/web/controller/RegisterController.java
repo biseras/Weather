@@ -1,7 +1,7 @@
 package com.example.weatherapplication.web.controller;
 
 
-import com.example.weatherapplication.model.exceptions.InvalidArgumentException;
+/*import com.example.weatherapplication.model.exceptions.InvalidArgumentException;
 import com.example.weatherapplication.model.exceptions.PasswordDoNotMatchException;
 import com.example.weatherapplication.model.exceptions.UsernameAlreadyExistsException;
 import com.example.weatherapplication.service.AuthService;
@@ -48,4 +48,4 @@ public class RegisterController {
             return "redirect:/register?error=" + exception.getMessage();
         }
     }
-}
+}*/

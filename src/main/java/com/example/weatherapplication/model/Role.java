@@ -1,6 +1,6 @@
 package com.example.weatherapplication.model;
 
-import lombok.Data;
+/*import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 
 
@@ -12,4 +12,4 @@ public enum Role implements GrantedAuthority {
     public String getAuthority() {
         return name();
     }
-}
+}*/

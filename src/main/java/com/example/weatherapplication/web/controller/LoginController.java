@@ -1,8 +1,8 @@
 package com.example.weatherapplication.web.controller;
 
-import com.example.weatherapplication.model.User;
+//import com.example.weatherapplication.model.User;
 import com.example.weatherapplication.model.exceptions.InvalidUserCredentialException;
-import com.example.weatherapplication.service.AuthService;
+//import com.example.weatherapplication.service.AuthService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.servlet.http.HttpServletRequest;
 
-@Controller
+/*@Controller
 @RequestMapping("/login")
 public class LoginController {
     private final AuthService authService;
@@ -39,4 +39,4 @@ public class LoginController {
             return "login";
         }
     }
-}
+}*/

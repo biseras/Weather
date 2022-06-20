@@ -1,6 +1,6 @@
 package com.example.weatherapplication.service.impl;
 
-import com.example.weatherapplication.model.User;
+/*import com.example.weatherapplication.model.User;
 import com.example.weatherapplication.model.exceptions.InvalidArgumentException;
 import com.example.weatherapplication.model.exceptions.PasswordDoNotMatchException;
 import com.example.weatherapplication.model.exceptions.UsernameAlreadyExistsException;
@@ -41,4 +41,4 @@ public class UserServiceImpl implements UserService {
     public UserDetails loadUserByUsername(String s) throws UsernameNotFoundException {
         return userRepository.findByUsername(s).orElseThrow(() -> new UsernameNotFoundException(s));
     }
-}
+}*/

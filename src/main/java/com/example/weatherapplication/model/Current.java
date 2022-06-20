@@ -13,7 +13,7 @@ public class Current {
     private String feelslike_c;
     private String feelslike_f;
     private String cloud;
-    private Condition condition;
+    //private Condition condition;
     private String uv;
     private String pressure_mb;
     private air_quality air_quality;
