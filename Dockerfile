@@ -1,4 +1,4 @@
 FROM openjdk:11
-EXPOSE 8080
-ADD target/backend-weather.jar backend-weather.jar
-ENTRYPOINT ["java", "-jar", "/backend-weather.jar"]
+EXPOSE 9097
+ADD target/WeatherApplication-0.0.1-SNAPSHOT.jar WeatherApplication-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java", "-jar", "/WeatherApplication-0.0.1-SNAPSHOT.jar"]
