@@ -132,6 +132,8 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                    <fork>true</fork>
+                    <executable>C:\Users\38977\.jdks\openjdk-15\bin\javac</executable>
                 </configuration>
             </plugin>
         </plugins>
